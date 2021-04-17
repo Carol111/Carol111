@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carolinecm/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:carvalhocaroline111@gmail.com)
 
-Graduated in Computer Engineering, based in Petrolina, Brazil. I consider myself skilled at writing well-designed and efficient code using current best practices in web and mobile development. Fast learner, hard worker and team player.
+Web and mobile front-end developer, graduated in Computer Engineering. Always looking for growth and apprenticeship, whether with tools, theory or good practices. I worked as a full-stack intern at Sysvale for 7 months. Currently working on pede.ai with mobile and front-end web development, area in which I have great interest. Continuously striving to face challenges with patience, proactivity and teamwork, as good products were not created alone. I have intermediate-advanced English.
 
 ------------
 
