@@ -23,8 +23,5 @@ Web and mobile front-end developer, graduated in Computer Engineering. Passionat
 
 ------------
 
-![Profile views](https://gpvc.arturio.dev/Carol111)  <img src="https://img.shields.io/github/followers/Carol111?label=Followers" style=" float:left, margin-right:10px" />
-
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Carol111&theme=gotham&show_icons=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carol111&layout=compact&theme=gotham" />
