@@ -22,6 +22,3 @@ Web and mobile front-end developer, graduated in Computer Engineering. Passionat
 <img src="https://img.shields.io/badge/Scrum-green?style=flat&logo=Scrum&logoColor=white"> <img src="https://img.shields.io/badge/Kanban-red?style=flat&logo=Kanban&logoColor=white">
 
 ------------
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Carol111&theme=gotham&show_icons=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carol111&layout=compact&theme=gotham" />
