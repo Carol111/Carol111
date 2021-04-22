@@ -17,7 +17,7 @@ Web and mobile front-end developer, graduated in Computer Engineering. Passionat
 
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=white">
 
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=white"> <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> <img src="http://img.shields.io/badge/-Figma-0acf83?style=flat&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white"> <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"> <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
+<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=white"> <img src="http://img.shields.io/badge/-Figma-0acf83?style=flat&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white"> <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"> <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 
 <img src="https://img.shields.io/badge/Scrum-green?style=flat&logo=Scrum&logoColor=white"> <img src="https://img.shields.io/badge/Kanban-red?style=flat&logo=Kanban&logoColor=white">
 
