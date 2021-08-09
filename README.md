@@ -11,13 +11,11 @@ Web and mobile front-end developer, graduated in Computer Engineering. Passionat
 
 ### Tech & Tools
 
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-React%20JS%2FNative-61DAFB?style=flat&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/-Vue.js-42b884?style=flat&logo=Vue.js&logoColor=white">  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 
-<img src="https://img.shields.io/badge/-Laravel-ef3b2d?style=flat&logo=laravel&logoColor=white"> <img src="https://img.shields.io/badge/-PHP-7f84ae?style=flat&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/-Node.js-brightgreen?style=flat&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql">
+<img src="https://img.shields.io/badge/-React%20JS%2FNative-61DAFB?style=flat&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/-Vue.js-42b884?style=flat&logo=Vue.js&logoColor=white">  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white">
 
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=white">
-
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=white"> <img src="http://img.shields.io/badge/-Figma-0acf83?style=flat&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white"> <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"> <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
+<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=white"> <img src="http://img.shields.io/badge/-Figma-0acf83?style=flat&logo=figma&logoColor=white"> <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 
 <img src="https://img.shields.io/badge/Scrum-green?style=flat&logo=Scrum&logoColor=white"> <img src="https://img.shields.io/badge/Kanban-red?style=flat&logo=Kanban&logoColor=white">
 
