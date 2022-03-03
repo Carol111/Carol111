@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Caroline C. Machado
 
-> Frontend web and mobile at [pede.ai](https://pede.ai/)
+> Mobile developer at [Elsys](https://www.elsys.com.br/)
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/carolinecm/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:carvalhocaroline111@gmail.com)
