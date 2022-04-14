@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/carolinecm/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:carvalhocaroline111@gmail.com)
 
-Web and mobile front-end developer, graduated in Computer Engineering. Passionate about learning new skills, theory and good practices. Currently working on pede.ai with mobile and front-end web development. Continuously striving to face challenges with patience, proactivity and teamwork, as good products were not created alone. I have intermediate-advanced English.
+Web and mobile front-end developer, graduated in Computer Engineering. Passionate about learning new skills, theory and good practices. Currently working at Elsys with mobile development (React Native). Continuously striving to face challenges with patience, proactivity and teamwork, as good products were not created alone. I have intermediate-advanced English.
 
 ------------
 
